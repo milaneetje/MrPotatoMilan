@@ -3,6 +3,5 @@
 first assignment of the course App studio
 Let's user dress and undress Mr. Potato
 
-![](images/Screenshot_2019-02-11-12-24-02.png)
-![](images/Screenshot_2019-02-11-12-24-11.png)
-![](images/Screenshot_2019-02-11-12-24-21.png)
+![screenshot 1](images/Screenshot_2019-02-11-12-24-02.png)
+![screenshot 3](images/Screenshot_2019-02-11-12-24-21.png)
